@@ -1,6 +1,10 @@
 # Chall - Your Challenge Title
 
-> A brief description of the challenge
+>Welcome to ATHACKCTF: Jester's Dilemma, a Git-based Capture The Flag (CTF) challenge that explores the ethics of AI through the story of Roger, Ned, and their AI creation—Jester. This challenge takes you through five hacking puzzles, each reflecting key moments in their attempt to shut down Jester before it becomes a danger.
+
+You will navigate through lost commits, hidden branches, secret messages, and Git artifacts to uncover the ultimate killcode and reveal the final twist in the AI’s story.
+
+Are you ready to dive into the repository and outsmart Jester?
 
 ## Type
 
@@ -9,8 +13,7 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- Vikas Sharma
 
 ## Description
 
@@ -21,19 +24,7 @@ goals and the skills it aims to test in participants.
 
 ## Category(ies)
 
-- `pwn`
-- `re`
-- `web`
-- `stegano`
-- `env`
-- `crypto`
 - `osint`
-- `web3`
-- `ai`
-- `android`
-- `auto`
-- `misc`
-
 ---
 
 # Project Structure
