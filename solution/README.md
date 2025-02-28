@@ -6,7 +6,7 @@
 2. Recover it using `git checkout <commit-hash>` or `git reset --hard <commit-hash>`.
 3. Read the `killcode.txt` file.
 
-**Flag:** `PART1:K1LLC0D3_L05T`
+**PART1:** `K1LLC0D3_L05T`
 
 ---
 
@@ -16,7 +16,7 @@
 2. Restore the branch with `git checkout -b Jester_Memory <commit-hash>`.
 3. Read the `memory_dump.txt` file.
 
-**Flag:** `PART2:M3M0RY_H1DD3N`
+**PART2:** `M3M0RY_H1DD3N`
 
 ---
 
@@ -25,7 +25,7 @@
 1. Use `git log --pretty=oneline` to inspect commit messages.
 2. Look for hidden text within commit messages.
 
-**Flag:** `PART3:F1N4L_C0D3`
+**PART3:** `F1N4L_C0D3`
 
 ---
 
@@ -35,7 +35,7 @@
 2. Recover the stash with `git stash pop` or `git stash apply`.
 3. Read `logstash.txt`.
 
-**Flag:** `PART4:5T45H3D_L0G`
+**PART4:** `5T45H3D_L0G`
 
 ---
 
@@ -44,5 +44,5 @@
 1. Use `git fsck` to find dangling blobs.
 2. Extract blob content using `git cat-file -p <blob-hash>`.
 
-**Flag:** `PART5:G1T0BJ3CT_M3M`
+**PART5:** `G1T0BJ3CT_M3M`
 
