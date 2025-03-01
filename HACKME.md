@@ -3,6 +3,6 @@ Do you know Git? If you really do, you should be able to put together the flag, 
 Recover all parts, put them back together in the correct order, and get the complete flag.
 
 Notes:
- - Part format: `PART<idx>:<PART_VALUE>`.
- - Only `<PART_VALUE>` is used for combining the flag.
+ - Part format: `PART<idx>:<PART_VALUE>` (e.g., `PART1:SECRET`).
+ - Only `<PART_VALUE>` (`SECRET` in the example) is used for combining the flag.
  - Flag format: `ATHACKCTF{PART1|PART2|...|PART5}`
