@@ -22,7 +22,7 @@
 
 ## **Part 3: Steganography in Commit Messages**
 ### **Solution:**
-1. Use `git log --pretty=oneline` to inspect commit messages.
+1. Use `git log --pretty=oneline -all` to inspect commit messages.
 2. Look for hidden text within commit messages.
 
 **PART3:** `F1N4L_C0D3`
