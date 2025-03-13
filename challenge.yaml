@@ -2,14 +2,14 @@ name: "Relics Of The Past"
 author: "Vikas"
 category: Forensics
 description: |
-	Do you know Git? If you really do, you should be able to put together the flag, since it was fragmented in 5 parts and placed at different locations in this git repo.
+  Do you know Git? If you really do, you should be able to put together the flag, since it was fragmented in 5 parts and placed at different locations in this git repo.
 
-    Recover all parts, put them back together in the correct order, and get the complete flag.
+   Recover all parts, put them back together in the correct order, and get the complete flag.
 
-    Notes:
-        - Part format: `PART<idx>:<PART_VALUE>` (e.g., `PART1:SECRET`).
-        - Only `<PART_VALUE>` (`SECRET` in the example) is used for combining the flag.
-        - Flag format: `ATHACKCTF{PART1|PART2|...|PART5}`
+   ## Notes:
+     - Part format: `PART<idx>:<PART_VALUE>` (e.g., `PART1:SECRET`).
+     - Only `<PART_VALUE>` (`SECRET` in the example) is used for combining the flag.
+     - Flag format: `ATHACKCTF{PART1|PART2|...|PART5}`
 
 value: 200
 
@@ -24,6 +24,6 @@ tags:
   - beginner
 
 files:
-    - offline-artifacts/RELICS_OF_THE_PAST.zip
+  - offline-artifacts/RELICS_OF_THE_PAST.zip
 
 state: visible
